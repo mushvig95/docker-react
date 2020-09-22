@@ -8,7 +8,7 @@ function App () {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          lolo there from react app
+          hello there from react app
         </p>
         <a
           className="App-link"
